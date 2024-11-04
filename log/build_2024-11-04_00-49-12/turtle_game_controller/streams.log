@@ -1,0 +1,20 @@
+[0.783s] Invoking command in '/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller': PYTHONPATH=/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build --no-deps symlink_data
+[1.150s] running develop
+[1.150s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.150s]   warnings.warn(
+[1.280s] running egg_info
+[1.280s] writing turtle_game_controller.egg-info/PKG-INFO
+[1.280s] writing dependency_links to turtle_game_controller.egg-info/dependency_links.txt
+[1.280s] writing entry points to turtle_game_controller.egg-info/entry_points.txt
+[1.280s] writing requirements to turtle_game_controller.egg-info/requires.txt
+[1.281s] writing top-level names to turtle_game_controller.egg-info/top_level.txt
+[1.282s] reading manifest file 'turtle_game_controller.egg-info/SOURCES.txt'
+[1.282s] writing manifest file 'turtle_game_controller.egg-info/SOURCES.txt'
+[1.283s] running build_ext
+[1.284s] Creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle-game-controller.egg-link (link to .)
+[1.284s] Installing turtle_mover_node script to /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/turtle_game_controller
+[1.285s] Installing turtle_spawner_node script to /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/turtle_game_controller
+[1.285s] 
+[1.285s] Installed /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller
+[1.285s] running symlink_data
+[1.305s] Invoked command in '/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller' returned '0': PYTHONPATH=/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build --no-deps symlink_data

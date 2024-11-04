@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/turtle_game_controller/turtle_game_controller.egg-info
+writing ../../build/turtle_game_controller/turtle_game_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_game_controller/turtle_game_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_game_controller/turtle_game_controller.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_game_controller/turtle_game_controller.egg-info/requires.txt
+writing top-level names to ../../build/turtle_game_controller/turtle_game_controller.egg-info/top_level.txt
+writing manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build
+creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib
+creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller
+copying turtle_game_controller/__init__.py -> /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller
+running install
+running install_lib
+creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller
+copying /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller/__init__.py -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller
+byte-compiling /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index
+creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index
+creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index/packages
+copying resource/turtle_game_controller -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/turtle_game_controller
+running install_egg_info
+Copying ../../build/turtle_game_controller/turtle_game_controller.egg-info to /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/install.log'

@@ -1,0 +1,33 @@
+[0.786s] Invoking command in '/home/mohsenium/Torpedo/spawn_turtle_game/src/turtle_game_controller': PYTHONPATH=/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_game_controller build --build-base /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build install --record /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/install.log --single-version-externally-managed install_data
+[1.126s] running egg_info
+[1.127s] creating ../../build/turtle_game_controller/turtle_game_controller.egg-info
+[1.127s] writing ../../build/turtle_game_controller/turtle_game_controller.egg-info/PKG-INFO
+[1.127s] writing dependency_links to ../../build/turtle_game_controller/turtle_game_controller.egg-info/dependency_links.txt
+[1.127s] writing entry points to ../../build/turtle_game_controller/turtle_game_controller.egg-info/entry_points.txt
+[1.127s] writing requirements to ../../build/turtle_game_controller/turtle_game_controller.egg-info/requires.txt
+[1.127s] writing top-level names to ../../build/turtle_game_controller/turtle_game_controller.egg-info/top_level.txt
+[1.128s] writing manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+[1.129s] reading manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+[1.129s] writing manifest file '../../build/turtle_game_controller/turtle_game_controller.egg-info/SOURCES.txt'
+[1.129s] running build
+[1.130s] running build_py
+[1.130s] creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build
+[1.130s] creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib
+[1.130s] creating /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller
+[1.130s] copying turtle_game_controller/__init__.py -> /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller
+[1.130s] running install
+[1.130s] running install_lib
+[1.131s] creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller
+[1.131s] copying /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build/lib/turtle_game_controller/__init__.py -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller
+[1.131s] byte-compiling /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller/__init__.py to __init__.cpython-310.pyc
+[1.132s] running install_data
+[1.132s] creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index
+[1.132s] creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index
+[1.132s] creating /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index/packages
+[1.132s] copying resource/turtle_game_controller -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/ament_index/resource_index/packages
+[1.132s] copying package.xml -> /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/share/turtle_game_controller
+[1.132s] running install_egg_info
+[1.134s] Copying ../../build/turtle_game_controller/turtle_game_controller.egg-info to /home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages/turtle_game_controller-0.0.0-py3.10.egg-info
+[1.134s] running install_scripts
+[1.152s] writing list of installed files to '/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/install.log'
+[1.169s] Invoked command in '/home/mohsenium/Torpedo/spawn_turtle_game/src/turtle_game_controller' returned '0': PYTHONPATH=/home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_game_controller build --build-base /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/build install --record /home/mohsenium/Torpedo/spawn_turtle_game/build/turtle_game_controller/install.log --single-version-externally-managed install_data

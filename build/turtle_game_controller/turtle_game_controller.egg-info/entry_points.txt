@@ -1,0 +1,5 @@
+[console_scripts]
+turtle_crash_node = turtle_game_controller.turtle_crash_handler:main
+turtle_mover_node = turtle_game_controller.turtle_movement_controller:main
+turtle_spawner_node = turtle_game_controller.turtle_spawner:main
+

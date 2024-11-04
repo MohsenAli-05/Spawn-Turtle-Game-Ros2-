@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages",
+        "/home/mohsenium/ros2_ws/build/my_robot_controller",
+        "/home/mohsenium/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mohsenium/Torpedo/spawn_turtle_game/install/turtle_game_controller/lib/python3.10/site-packages",
+        "/home/mohsenium/ros2_ws/build/my_robot_controller",
+        "/home/mohsenium/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
